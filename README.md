@@ -1,1 +1,3 @@
 # econometrics_cheatsheet
+
+This is a cheat sheet for econometrics 101. Fair warning that I typed all this shit up and CANNOT guarantee the validity of all of this. Trust, but verfiy. And for the love of god, please let me know if you find anything that is blantatly wrong. Please feel free to use however you want, or even better to make a pull request to add new material or even new econ related cheatsheets. Also, feel free to reach out if you need any help with the template and/or making a PR to this repo. I just tested on a fresh install of RStudio with (2022-02-0) and R (4.1.3) with tinytex (tinytex::install_tinytex()) and it compiled fine. See https://yihui.org/tinytex/ for info on compiling. Happy hacking. 
